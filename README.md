@@ -9,7 +9,7 @@ We have used Bootstrap for cards that contains an account information and for st
 
 ## Instagram API
 
-We have used jQuery library to dealing with the Ajax file that an instagram API return.
+We have used jQuery library to dealing with the JSON file that an instagram API return.
 `https://www.instagram.com/web/search/topsearch/?context=blended&query=` + any username of instagram account.
 
 ### Thank you to everyone who learns passionately and shares his/her knowledge with others generously. Thank you very much, you guys! 🌟💓💓💓.
